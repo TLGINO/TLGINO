@@ -3,7 +3,8 @@
 
 A little bit about me:
 
-I"m a student currently working at [CERN](https://home.web.cern.ch/) as a Software Engineer, all while studying at [Università della Svizzera Italiana](https://www.usi.ch/en) 🇨🇭, originally from France 🇫🇷.
+I"m a student currently working at Amazon Luxembourg as a Business Intelligence Engineer. all while studying at [Università della Svizzera Italiana](https://www.usi.ch/en) 🇨🇭, originally from France 🇫🇷.
+I previously worked at [CERN](https://home.web.cern.ch/) as a Software Engineer on the development of InvennioRDM.
 
 
 

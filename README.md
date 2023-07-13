@@ -4,11 +4,10 @@
 A little bit about me:
 
 I"m a student currently working at Amazon Luxembourg as a Business Intelligence Engineer. all while studying at [Università della Svizzera Italiana](https://www.usi.ch/en) 🇨🇭, originally from France 🇫🇷.
-I previously worked at [CERN](https://home.web.cern.ch/) as a Software Engineer on the development of InvennioRDM.
+I have previously worked at [CERN](https://home.web.cern.ch/) as a Software Engineer on the development of [InvenioRDM](https://inveniosoftware.org/products/rdm/).
 
 
-
-I'm currently working on the development of [InvenioRDM](https://inveniosoftware.org/products/rdm/), but also some UNI / personal projects, notably a mobile app [Patchify](https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier&hl=en_US&gl=US).
+When I have time I also work on some UNI / personal projects, notably a mobile app [Patchify](https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier&hl=en_US&gl=US).
 
 
 [![TLGINO's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLGINO&count_private=true&theme=highcontrast)](https://github.com/TLGINO)

@@ -3,7 +3,7 @@
 
 A little bit about me:
 
-I"m a student currently at [Università della Svizzera Italiana](https://www.usi.ch/en) 🇨🇭, originally from France 🇫🇷.
+I"m a student at [Università della Svizzera Italiana](https://www.usi.ch/en) 🇨🇭, originally from France 🇫🇷.
 
 I have previously worked at Amazon Luxembourg as a Business Intelligence Engineer and [CERN](https://home.web.cern.ch/) as a Software Engineer, where I worked on the development of [InvenioRDM](https://inveniosoftware.org/products/rdm/).
 

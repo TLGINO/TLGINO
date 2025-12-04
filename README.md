@@ -4,9 +4,9 @@ A little bit about me:
 
 I'm a student at [EPFL](https://epfl.ch) 🇨🇭, originally from France 🇫🇷.
 
-I'm currently interning at Oracle Labs in Zurich, Switzerland!
+I'm currently finishing up my Masters, working on some cool stuff on the side:)
 
-I have previously worked at Amazon Luxembourg as a Business Intelligence Engineer and [CERN](https://home.web.cern.ch/) as a Software Engineer, where I worked on the development of [InvenioRDM](https://inveniosoftware.org/products/rdm/).
+I have previously worked at Oracle Labs in Zurich, at Amazon Luxembourg as a Business Intelligence Engineer and [CERN](https://home.web.cern.ch/) as a Software Engineer, where I worked on the development of [InvenioRDM](https://inveniosoftware.org/products/rdm/).
 
 
 When I have time I also work on some UNI / personal projects - check out my repos!
